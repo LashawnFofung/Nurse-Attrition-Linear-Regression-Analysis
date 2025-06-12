@@ -40,3 +40,14 @@ The linear regression analysis utilizes a dataset with specific characteristics,
   - The level of measurement for both the Program Participation Rate and the Nurse Attrition Rate are ratio variables. This means they are quantitative, have a true zero point (indicating the absence of the measured quantity), and allow for meaningful ratio comparisons (e.g., a rate of 20% is twice as high as a rate of 10%). The ratio level of measurement is essential for linear regression, as it assumes a linear relationship between the quantitative variables.
   - The sample size for this analysis is 36 observations, representing data collected across 36 months. Each observation consists of a paired value of Program Participation Rate and Nurse Attrition Rate for a specific month. The sample size of 36 is sufficient to perform a linear regression analysis and provides a reasonable amount of data to assess the relationship between the variables over time.
 
+<h3>REPORTING</h3>
+This section provides a comprehensive report of the linear regression analysis. It includes the detailed output from the analysis, presenting the statistical measures and coefficients, followed by a scatter plot visualizing the relationship between the variables. Together, these elements offer a clear and complete view of the analysis results.
+
+<b>ANALYSIS OUTPUT AND CALCULATIONS</b>
+# My Data Analysis Project
+
+This is a project demonstrating my data analysis skills. Below is a key visualization.
+
+![Sales Distribution Plot](images/my_plot.png "Distribution of Sales by Category")
+
+
