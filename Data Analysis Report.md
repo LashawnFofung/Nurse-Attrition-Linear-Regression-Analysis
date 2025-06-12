@@ -80,6 +80,7 @@ Therefore, an R-squared of 0.7485 indicates a moderate to strong fit of the vari
 
 
 <h3>INDEPENDENT VARIABLE(S) SIGNIFICANCE</h3>
+
 In linear regression, assessing the significance of the independent variable(s) is crucial to determine if they have a statistically meaningful impact on the dependent variable. Statistical significance indicates whether the observed effect is likely a real effect or simply due to random chance. Statistical significance was assessed at the 0.05 level (indicating a 95% confidence level) and 0.95 level (indicating a 5% significance level).
 
 For this analysis, the independent variable is the Program Participation Rate. The significance of this variable is evaluated using its p-value from the regression output. The p-value is a measure of how 'unsure' we are about the Program Participation Rate. The aim is to have a low p-value. A high p-value means we are more 'unsure' (i.e., the results could easily be due to chance), while a low p-value means we are less 'unsure' and more confident in the effect the Program Participation Rate has on Nurse Attrition.
