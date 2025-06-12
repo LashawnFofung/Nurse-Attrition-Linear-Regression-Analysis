@@ -44,7 +44,6 @@ The linear regression analysis utilizes a dataset with specific characteristics,
 This section provides a comprehensive report of the linear regression analysis. It includes the detailed output from the analysis, presenting the statistical measures and coefficients, followed by a scatter plot visualizing the relationship between the variables. Together, these elements offer a clear and complete view of the analysis results.
 
 <b>ANALYSIS OUTPUT AND CALCULATIONS</b>
-# My Data Analysis Project
 
 This is a project demonstrating my data analysis skills. Below is a key visualization.
 
