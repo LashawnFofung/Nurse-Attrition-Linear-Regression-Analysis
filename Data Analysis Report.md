@@ -49,7 +49,7 @@ This section provides a comprehensive report of the linear regression analysis. 
 This is a project demonstrating my data analysis skills. Below is a key visualization.
 
 
-![Linear Regression](Linear Regression Summary Output.png)
+![Linear Regression](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis/blob/main/Linear%20Regression%20Summary%20Output.png)
 
 
 
