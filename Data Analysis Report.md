@@ -1,20 +1,21 @@
 <h1>Data Analysis Report</h1>
 
-<h3>BUSINESS SCENARIO</h3>
+<h3>Objective</h3>
 
-In 2025, the healthcare industry faces an unprecedented demand for nurses, exacerbated by persistent staffing shortages. 
-To proactively address this challenge and improve nurse retention, a major healthcare system implemented an Employee Well-being 
-Program three years ago. This voluntary program aims to reduce job-related stress, a significant contributor to high nurse turnover, 
-by offering monthly activities designed to enhance employee morale and well-being. The hospital's executive council is now evaluating 
-the program's efficacy to inform future funding and expansion decisions, particularly considering the substantial costs associated with 
-nurse attrition.
+To determine if a statistically significant linear relationship exists between monthly Employee Well-being Program participation rates and nurse attrition rates over three years, and to inform future retention strategies
 
-<h3>BUSINESS QUESTION</h3>
-Escalating nurse burnout, coupled with rising resignation rates and persistent staffing shortages, is significantly impacting the quality and sustainability of healthcare delivery. Given the hospital's goal of mitigating nurse attrition through the Employee Well-being Program, does a significant linear relationship exist between monthly Program Participation and Nurse Attrition Rates over the past three years, and can this relationship inform future retention strategies?
+<h3>Problem Statement</h3>
+A major healthcare system faced increasing demand for nurses and persistent staffing shortages in 2025. They implemented an Employee Well-being Program to reduce job-related stress and improve nurse retention. The hospital's executive council needed to evaluate the program's efficacy to make informed decisions about future funding and expansion, especially given the substantial costs of nurse attrition.
 
-<h3>NULL HYPOTHESIS</h3>
-This research investigates the relationship between Nurse Participation Rate in the Employee Well-being Program and Nurse Attrition Rates. Specifically, over a period of three years, it seeks to determine if there is a measurable linear association between the monthly program participation rate of nurses and the corresponding monthly nurse attrition rate.
-The null hypothesis (H0) for this linear regression analysis states that there is no statistically significant linear relationship between the monthly program participation rate of nurses and the monthly nurse attrition rate. In practical terms, this hypothesis assumes that changes in the level of program participation are not systematically related to changes in nurse attrition rates.
+
+<h3>Data & Methodology</h3>
+
+  - <b>Independent Variable (x):</b> Program Participation Rate (%)
+  - <b>Dependent Variable (y):</b> Nurse Attrition Rate (%)
+  - <b>Level of Measurement:</b> Both variables are ratio variables, suitable for linear regression analysis
+  - <b>Sample Size:</b> 36 observations (representing 36 months of data)
+  - <b>Analysis Technique:</b> Linear Regression was chosen to quantify the relationship, enable predictive modeling, and perform statistical significance testing
+  - <b>Null Hypothesis (H0):</b> There is no statistically significant linear relationship between the monthly program participation rate of nurses and the monthly nurse attrition rate
 
 <h3>ANALYSIS TECHNIQUE JUSTIFICATION</h3>
 Given the hospital's objective to mitigate nurse attrition through the Employee Well-being Program, and the need to determine if a significant linear relationship exists between monthly program participation and nurse attrition rates over the past three years, linear regression was selected as the appropriate analytical technique. This choice is supported by several key factors:
@@ -85,4 +86,5 @@ In linear regression, assessing the significance of the independent variable(s) 
 
 For this analysis, the independent variable is the Program Participation Rate. The significance of this variable is evaluated using its p-value from the regression output. The p-value is a measure of how 'unsure' we are about the Program Participation Rate. The aim is to have a low p-value. A high p-value means we are more 'unsure' (i.e., the results could easily be due to chance), while a low p-value means we are less 'unsure' and more confident in the effect the Program Participation Rate has on Nurse Attrition.
 
-From the output, the p-value for the Program Participation Rate is 1E-11 (or 0.00000000001), representing a probability of less than 1%. Therefore, we reject the null hypothesis and conclude
+From the output, the p-value for the Program Participation Rate is 1E-11 (or 0.00000000001), representing a probability of less than 1%. Therefore, we reject the null hypothesis and conclude that the Program Participation Rate has a statistically significant effect on the Nurse Attrition Rate. This suggests that changes in program participation strongly predict changes in nurse attrition and this association is unlikely to be due to random chance.
+
