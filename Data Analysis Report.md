@@ -53,3 +53,35 @@ This section provides a comprehensive report of the linear regression analysis. 
 <h3></h3>
 
 ![Program Participation Rate Line Fit Plot](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis/blob/main/Program%20Participation%20Rate%20(%25)%20Line%20Fit%20Plot.png)
+
+<h3></h3>
+
+<h3>IMPLICATIONS OF DATA ANALYSIS</h3>
+This section provides a comprehensive interpretation of the linear regression analysis results. It begins by evaluating the model's overall fit using R-squared and assessing the statistical significance of the program participation rate's influence on nurse attrition. Subsequently, the practical application of the generated linear equation for predictive modeling will be examined. Following this, the limitations of the analysis are discussed, and finally, a recommended course of action, based on the analytical findings and relevant business context, is presented to guide the hospital's strategic management decisions regarding the Employee Well-being Program.
+
+<h3></h3>
+
+<h3>GOODNESS OF FIT</h3>h
+The goodness of fit of the linear regression model describes how well the model represents the observed data. A key statistic for assessing this in linear regression is the coefficient of determination, or R-squared (R2). The R-squared value is presented as a percentage, ranging from 0% to 100%, to provide a readily understandable measure of the model's explanatory power.
+
+In the regression output, the R-squared value is 0.7485. This indicates that approximately 75 % of the variation in the nurse attrition rate can be explained by the variation in the program participation rate.
+
+<h3></h3>
+
+<b>Interpretation:</b>
+  
+  - An R-squared of 0% indicates a weak fit, meaning the model explains none of the variability of the dependent variable.
+  - An R-squared of 50% indicates a moderate fit, meaning the model explains some of the variability.
+  - An R-squared of 100% indicates a strong fit, meaning the model perfectly explains all the variability.
+
+Therefore, an R-squared of 0.7485 indicates a moderate to strong fit of the variability in nurse attrition, but there's still a considerable amount of variation not accounted for by the model. Therefore, program participation accounts for 75 % of variation in nurse attrition. This leaves 25% of the variation was not measured in this analysis. This implies that while program participation rate is a relevant factor in explaining nurse attrition, other factors not included in this analysis also play a significant role.
+
+<h3></h3>
+
+
+<h3>INDEPENDENT VARIABLE(S) SIGNIFICANCE</h3>
+In linear regression, assessing the significance of the independent variable(s) is crucial to determine if they have a statistically meaningful impact on the dependent variable. Statistical significance indicates whether the observed effect is likely a real effect or simply due to random chance. Statistical significance was assessed at the 0.05 level (indicating a 95% confidence level) and 0.95 level (indicating a 5% significance level).
+
+For this analysis, the independent variable is the Program Participation Rate. The significance of this variable is evaluated using its p-value from the regression output. The p-value is a measure of how 'unsure' we are about the Program Participation Rate. The aim is to have a low p-value. A high p-value means we are more 'unsure' (i.e., the results could easily be due to chance), while a low p-value means we are less 'unsure' and more confident in the effect the Program Participation Rate has on Nurse Attrition.
+
+From the output, the p-value for the Program Participation Rate is 1E-11 (or 0.00000000001), representing a probability of less than 1%. Therefore, we reject the null hypothesis and conclude
