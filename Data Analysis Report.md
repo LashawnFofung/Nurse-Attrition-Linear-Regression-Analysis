@@ -49,6 +49,6 @@ This section provides a comprehensive report of the linear regression analysis. 
 This is a project demonstrating my data analysis skills. Below is a key visualization.
 
 
-![Alt text for the image](/Nurse-Attrition-Linear-Regression-Analysis/image/Linear Regression Summary Output.png)
+![Linear Regression](Linear Regression Summary Output.png)
 
 
