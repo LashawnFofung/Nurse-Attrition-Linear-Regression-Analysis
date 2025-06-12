@@ -52,4 +52,4 @@ This section provides a comprehensive report of the linear regression analysis. 
 
 <h3></h3>
 
-![Program Participation Rate Line Fit Plot](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis/blob/main/Scatter%20Plott%20with%20Tread%20Line%20.png)
+![Program Participation Rate Line Fit Plot](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis/blob/main/Program%20Participation%20Rate%20(%25)%20Line%20Fit%20Plot.png)
