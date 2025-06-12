@@ -48,6 +48,7 @@ This section provides a comprehensive report of the linear regression analysis. 
 
 This is a project demonstrating my data analysis skills. Below is a key visualization.
 
-![Sales Distribution Plot](images/my_plot.png "Distribution of Sales by Category")
+
+![Alt text for the image](/Linear Regression Summary Output.png)
 
 
