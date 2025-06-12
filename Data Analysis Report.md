@@ -50,5 +50,6 @@ This section provides a comprehensive report of the linear regression analysis. 
 
 ![Linear Regression](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis/blob/main/Linear%20Regression%20Summary%20Output.png)
 
+<h3></h3>
 
-
+![Program Participation Rate Line Fit Plot](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis/blob/main/Scatter%20Plott%20with%20Tread%20Line%20.png)
