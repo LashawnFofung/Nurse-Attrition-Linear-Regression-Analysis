@@ -13,9 +13,8 @@ This dataset was provided by **Western Governors University (WGU)** for academic
 
 
 # Dataset Overview
-### Dataset: `Nurse Attrition and Participation Program Data.xlsm`
 
-* **File Name:** `Nurse Attrition and Participation Program Data.xlsm`
+* **Dataset:** `Nurse Attrition and Participation Program Data.xlsm`
 * **Format:** Microsoft Excel Workbook (.xlsx)
 * **Size:** 18KB
 * **Number of Sheets:** 3 sheets: PPRate and NARate, Linear Regression Analysis, Data Source
