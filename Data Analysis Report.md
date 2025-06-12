@@ -24,3 +24,19 @@ Given the hospital's objective to mitigate nurse attrition through the Employee 
   - Statistical Significance Testing: Linear regression provides a framework for testing the null hypothesis, which states that no statistically significant linear relationship exists between monthly program participation rates and nurse attrition rates. By calculating the p-value, we can determine the likelihood that any observed relationship is a genuine effect of the program rather than a result of random variation. This is crucial for evaluating the program's efficacy, as outlined in the business scenario.
 
 In summary, linear regression is a critical analytical tool for this context. It allows for the examination and quantification of the relationship between program participation and nurse attrition, facilitating an assessment of the program's effectiveness. Moreover, the predictive capabilities of linear regression enable the hospital to make data-driven decisions regarding resource allocation and program enhancements. Finally, the statistical significance testing provides a rigorous evaluation of the program's impact, ensuring that any conclusions drawn are statistically sound.
+
+<h3>LINEAR REGRESSION ANALYSIS</h3>
+The following section presents the methodology and results of the linear regression analysis used to investigate the relationship between the monthly program participation rate and the monthly nurse attrition rate. This section includes a description of the data, the statistical output from the regression analysis, and a visual representation of the data, providing a comprehensive overview of the analytical process.
+
+<h3>DESCRIPTION OF RELEVANT DATA</h3>
+The linear regression analysis utilizes a dataset with specific characteristics, which are important for proper interpretation of the results; these characteristics, including the independent and dependent variables, their levels of measurement, and the sample size, are outlined in the following description.
+
+<h3></h3>
+
+<b>Data Characteristics</b>
+
+  - The independent variable (x) in this analysis is the Program Participation Rate (%), representing the percentage of nurses involved in the Employee Well-being Program. This variable is used to predict or explain variations in the dependent variable.
+  - The dependent variable (y) in this analysis is the Nurse Attrition Rate (%), which indicates the percentage of nurses who left their employment during each month. The analysis aims to model how this attrition rate is influenced by changes in the program participation rate.
+  - The level of measurement for both the Program Participation Rate and the Nurse Attrition Rate are ratio variables. This means they are quantitative, have a true zero point (indicating the absence of the measured quantity), and allow for meaningful ratio comparisons (e.g., a rate of 20% is twice as high as a rate of 10%). The ratio level of measurement is essential for linear regression, as it assumes a linear relationship between the quantitative variables.
+  - The sample size for this analysis is 36 observations, representing data collected across 36 months. Each observation consists of a paired value of Program Participation Rate and Nurse Attrition Rate for a specific month. The sample size of 36 is sufficient to perform a linear regression analysis and provides a reasonable amount of data to assess the relationship between the variables over time.
+
