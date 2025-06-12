@@ -1,7 +1,5 @@
 # Nurse-Attrition-Linear-Regression-Analysis
 
-# Nurse Attrition Linear Regression - Data Analysis of WGU Provided Dataset
-
 This repository showcases an analysis performed on a dataset provided by Western Governors University for academic purposes. 
 
 # Project Description
