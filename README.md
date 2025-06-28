@@ -22,3 +22,4 @@ This dataset was provided by **Western Governors University (WGU)** for academic
 
 
 # YouTube
+- [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
