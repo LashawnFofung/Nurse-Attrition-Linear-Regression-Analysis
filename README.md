@@ -19,3 +19,6 @@ This dataset was provided by **Western Governors University (WGU)** for academic
 * **Size:** 18KB
 * **Number of Sheets:** 3 sheets: PPRate and NARate, Linear Regression Analysis, Data Source
 * **Key Columns/Variables:** Month, Program Participation Rate (%), Nurse    Attritution Rate    (%)
+
+
+# YouTube
