@@ -32,7 +32,7 @@ This section provides a comprehensive report of the linear regression analysis. 
 <h3></h3>
 
 
-![Linear Regression](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis/blob/main/Linear%20Regression%20Summary%20Output.png)
+![Linear Regression](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis/blob/main/Results/Linear%20Regression%20Summary%20Output.png)
 
 <h3></h3>
 
